@@ -9,7 +9,6 @@ create new version 4
 
 create new version 5
 
-test patch 2
 create new version 6
 
 create new version 7

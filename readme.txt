@@ -1,5 +1,6 @@
 create readme.txt
 
+push test2
 add patch for remote update
 test clone and update
 

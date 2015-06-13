@@ -17,5 +17,5 @@ test patch 1
 
 new branch inited
 
-first
+first2
 diff test

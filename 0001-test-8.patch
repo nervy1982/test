@@ -1,0 +1,24 @@
+From c7ce817d3c4c9043985338f7da5d9edc550530c9 Mon Sep 17 00:00:00 2001
+From: sam <nervy1982@163.com>
+Date: Mon, 9 Mar 2015 21:32:37 +0800
+Subject: [PATCH] test 8
+
+---
+ readme.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/readme.txt b/readme.txt
+index 2edbc39..c42ff2f 100644
+--- a/readme.txt
++++ b/readme.txt
+@@ -8,7 +8,6 @@ create new version 3.5
+ create new version 4
+ 
+ create new version 5
+-
+ create new version 6
+ 
+ create new version 7
+-- 
+1.9.1
+

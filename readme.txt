@@ -19,3 +19,5 @@ new branch inited
 
 first3
 diff test
+
+test add
